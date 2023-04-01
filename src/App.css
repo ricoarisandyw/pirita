@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  width: 100vw;
+}
+
+.ocrx_word {
+  border: 1px solid blue;
+}
